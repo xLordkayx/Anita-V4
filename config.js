@@ -1,6 +1,6 @@
 require('dotenv').config(); 
 
-
+global.owner = process.env.OWNER_NUMBER; 
 global.anitav4 = process.env.BOT_NAME || "𝐐𝐔𝐄𝐄𝐍_𝐀𝐍𝐈𝐓𝐀-𝐕𝟒";
 global.ownername = process.env.OWNER_NAME || "David Cyril";
 global.packname = process.env.PACK_NAME || "𝐐𝐔𝐄𝐄𝐍_𝐀𝐍𝐈𝐓𝐀-𝐕𝟒";
@@ -28,7 +28,7 @@ global.roles = {
     25: "Legend",
 };
 
-
+global.sudoUsers = process.env.SUDO_USERS; 
 
 global.public = process.env.PUBLIC === 'true';
 
