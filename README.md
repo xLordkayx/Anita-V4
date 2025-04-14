@@ -27,8 +27,7 @@
 ## Anita-V4 Deployment Methods
 ---
 1.  **Fork Repo First, [CLICK HERE](https://github.com/DavidCyrilTech/Anita-V4/fork) (A MUST) and Star ⭐ Repository for Courage.**
-2.  **Get SESSION ID BY [PAIRING CODE](https://anita-v4-pairing-wumi.onrender.com) 
- OR BY [SCANNING QR CODE](https://gojousession-05ea27b8ff9a.herokuapp.com/wasiqr)** 
+2.  **Get SESSION ID BY [PAIRING CODE](https://pair.david-cyril.net.ng)** 
 3. **Deploy on [HEROKU](https://dashboard.heroku.com/new?template=https://github.com/DavidCyrilTech/Anita-V4)**
 3. **Deploy on [RENDER](https://dashboard.render.com/signup)**
 3. **Deploy on [KOYEB](https://app.koyeb.com/services/deploy/?type=git&repository=github.com%2FDavidCyrilTech&branch=main&name=Anita-V4&builder=dockerfile&env%5BAUTO_STATUS_REACT=false%5D=&env%5BSESSION_ID%5D=your%20sessionid%20here&env%5BPUBLIC%5D=true&env=%5BAUTO_TYPING%5D%3Dfalse&env%5BAUTO_STATUS_VIEW%5D=true)**
