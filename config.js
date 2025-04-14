@@ -28,7 +28,6 @@ global.roles = {
     25: "Legend",
 };
 
-global.sudoUsers = process.env.SUDO_USERS; 
 
 global.public = process.env.PUBLIC === 'true';
 
