@@ -20,12 +20,12 @@
       "required": false
     },
     "AUTO_STATUS_REACT": {
-      "description": "Set true to auto-react to messages.",
+      "description": "Set true to auto-react to Status.",
       "value": "false",
       "required": false
     },
       "ANTIDELETE": {
-      "description": "Set true to auto-react to messages.",
+      "description": "Set true to see deleted messages.",
       "value": "false",
       "required": false
     },
